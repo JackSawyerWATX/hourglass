@@ -1,30 +1,30 @@
 # Hourglass Array Sum Problem
 
-1. Clear Problem Explanation
-  * What an hourglass is visually
-  * Why it's called an hourglass
-  
-2. Real-World Context
-  * Image processing applications
-  * Game development uses
-  * Data analysis scenarios
-  * Programming skills developed
+1. **Clear Problem Explanation**
+   - What an hourglass is visually
+   - Why it's called an hourglass
+    
+2. **Real-World Context**
+   - Image processing applications
+   - Game development uses
+   - Data analysis scenarios
+   - Programming skills developed
 
-3. Complete Running Instructions
-  * Prerequisites needed
-  * Step-by-step terminal commands
-  * How to run both versions
-  * How to enter custom data
+3. **Complete Running Instructions**
+   - Prerequisites needed
+   - Step-by-step terminal commands
+   - How to run both versions
+   - How to enter custom data
 
-4. Technical Details
-  * Time and space complexity
-  * Algorithm explanation
-  * Example walkthrough
-  
-5. Learning Aids
-  * Memory techniques
-  * Visual analogies
-  * Key insights
+4. **Technical Details**
+   - Time and space complexity
+   - Algorithm explanation
+   - Example walkthrough
+    
+5. **Learning Aids**
+   - Memory techniques
+   - Visual analogies
+   - Key insights
 
 ## Quick Reference - How to Run:
 Simple version (runs immediately):

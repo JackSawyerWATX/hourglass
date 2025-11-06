@@ -3,7 +3,7 @@
 1. **Clear Problem Explanation**
    - What an hourglass is visually
    - Why it's called an hourglass
-    
+
 2. **Real-World Context**
    - Image processing applications
    - Game development uses
@@ -41,7 +41,8 @@ python hourglass.py
 
 ## What is This?
 
-This program solves the "Hourglass Sum" problem - finding the maximum sum among all possible hourglass patterns in a 6×6 array.
+This program solves the "Hourglass Sum" problem - finding the maximum sum among all possible hourglass 
+patterns in a 6×6 array.
 
 ## What Does an Hourglass Look Like?
 
@@ -52,7 +53,8 @@ X X X
 X X X
 ```
 
-It's called an "hourglass" because it resembles the shape of an hourglass ⏳ - wide at the top, narrow in the middle, wide at the bottom.
+It's called an "hourglass" because it resembles the shape of an hourglass ⏳ - wide at the top, 
+narrow in the middle, wide at the bottom.
 
 ## Why Does This Problem Matter?
 
@@ -122,7 +124,7 @@ Sum: 2 + 4 + 4 + 2 + 1 + 2 + 4 = **19**
 1. Open your terminal/command prompt
 2. Navigate to the project directory:
    ```bash
-   cd "C:\Users\jonat\OneDrive\Desktop\hourglass"
+   cd "C:\Users\compname\OneDrive\Desktop\hourglass"
    ```
 3. Run the simple version:
    ```bash
@@ -171,8 +173,8 @@ If you choose to enter custom data, provide:
 
 ### Key Insight
 You're not just manipulating arrays - you're learning to systematically search for optimal patterns in 
-structured data. This skill applies to analyzing business data, processing images, building games, and many 
-other real-world programming tasks.
+structured data. This skill applies to analyzing business data, processing images, building games, and 
+many other real-world programming tasks.
 
 ## Memory Techniques
 
